@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class entrada_de_dados {
+public class EntradaDeDados {
 
 	public static void main(String[] args) {
 		Locale.setDefault(Locale.US);

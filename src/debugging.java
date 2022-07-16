@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class debugging {
+public class Debugging {
 	
 	//para debbugar=> run - toggle breakpoint
 	//botão direito na classe - debbug as Java Application

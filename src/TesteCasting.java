@@ -1,5 +1,5 @@
 
-public class teste_casting {
+public class TesteCasting {
 
 	public static void main(String[] args) {
 		int x;

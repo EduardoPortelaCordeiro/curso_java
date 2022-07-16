@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class condicionais_exercicios {
+public class ExerciciosCondicao {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
